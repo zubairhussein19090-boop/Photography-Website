@@ -60,5 +60,3 @@ python3 -m http.server 8000
 This project is free to use and modify.
 
 ---
-
-If you want, I can also add a deploy section (Netlify/Vercel) or generate a tiny `package.json` for local tooling.
