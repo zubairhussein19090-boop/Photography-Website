@@ -11,3 +11,4 @@ What it is:
 
 - 'html'
 - 'css'
+  [MIT LICENSE](https://github.com/twbs/boostrap/blob/main/LICENSE)
