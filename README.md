@@ -41,13 +41,3 @@ Easy code you can try:
   gap: 12px;
 }
 ```
-
-How to explain this (practice script):
-
-- Intro (1 sentence): "This is a simple photo website I built with HTML and CSS."
-- Files (1 sentence): "`index.html` has the page structure, `styles.css` has the design, and `images/` has the pictures."
-- How it works (2 sentences): "Images are shown using `<img>` inside `<figure>` so we can add captions. CSS makes the pictures resize and put them in a grid so it looks nice on phones."
-- How you run it (1 sentence): "Open `index.html` or run `python3 -m http.server 8000` and go to `http://localhost:8000`."
-- One thing you changed (1 sentence): "I can add photos by copying files into `images/` and adding the HTML snippet."
-
-Want me to make the explanation even shorter for a 30-second talk? Or add screenshots to the README?
