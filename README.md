@@ -7,8 +7,14 @@ What it is:
 - A gallery page that shows pictures.
 - No fancy tools or installs — just files you can edit.
 
-## Technolgies used
+## Technoligies used
 
 - 'html'
 - 'css'
-  [MIT LICENSE](https://github.com/twbs/boostrap/blob/main/LICENSE)
+
+## Setup & installation
+
+1. clone repesitory
+2. Run 'nmp' install'
+
+[MIT LICENSE](https://github.com/twbs/boostrap/blob/main/LICENSE)
