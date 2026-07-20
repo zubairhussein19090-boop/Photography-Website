@@ -16,6 +16,8 @@
             color: white; /* This makes the text white */
             text-align: center; /* This puts the text in the middle */
             padding: 40px 20px; /* This adds space inside the header */
+            text-align: center;
+            
         }
         
 
@@ -40,6 +42,8 @@
             background-color: white; /* This makes each section white */
             border: 1px solid #ddd; /* This adds a thin border */
             border-radius: 40px;
+            text-align: center;
+            text-decoration: none;
         }
 
         /* This changes the main titles ccolor */
@@ -52,9 +56,10 @@
             color: #111827; /* This makes the titles dark and bold */
         }
 
-        /* This adds a little space on the left of the list */
+        /* This removes the bullet points from lists */
         ul {
-            padding-left: 20px; /* This moves the bullet points in a bit */
+            list-style: none;
+            padding-left: 0;
         }
 
         /* This is the bottom part of the page */
