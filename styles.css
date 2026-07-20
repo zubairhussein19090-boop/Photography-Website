@@ -16,8 +16,7 @@
             color: white; /* This makes the text white */
             text-align: center; /* This puts the text in the middle */
             padding: 40px 20px; /* This adds space inside the header */
-            text-align: center;
-            
+            font-style: italic; /* This makes the header text italic */
         }
         
 
