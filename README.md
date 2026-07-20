@@ -6,3 +6,8 @@ What it is:
 
 - A gallery page that shows pictures.
 - No fancy tools or installs — just files you can edit.
+
+## Technolgies used
+
+- 'html'
+- 'css'
