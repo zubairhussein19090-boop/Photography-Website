@@ -39,6 +39,7 @@
             margin: 20px; /* This adds space outside each section */
             background-color: white; /* This makes each section white */
             border: 1px solid #ddd; /* This adds a thin border */
+            border-radius: 40px;
         }
 
         /* This changes the main titles ccolor */
@@ -62,4 +63,10 @@
             padding: 20px; /* This adds space inside the footer */
             background-color: #111827; /* This makes the footer dark and strong */
             color: white; /* This makes the footer text white */
+            border-radius: 40px;
+        }
+
+        /* This styles the images */
+        img {
+            border-radius: 40px;
         }
